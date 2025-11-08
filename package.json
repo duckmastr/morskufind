@@ -1,0 +1,20 @@
+{
+  "name": "simple-search-web",
+  "version": "1.0.0",
+  "description": "A simple webpage with a search bar to retrieve information based on a number input.",
+  "main": "src/js/main.js",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "keywords": [
+    "search",
+    "web",
+    "simple"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
